@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.14.2//EN
+N:Huang;Ta-Cheng;;;
+FN:Ta-Cheng Huang
+ORG:NUS GAI;
+EMAIL;type=INTERNET;type=WORK;type=pref:tchuang@nus.edu.sg
+TEL;type=WORK;type=VOICE;type=pref:+6566012086
+ADR;type=WORK;type=pref:;;10 Lower Kent Ridge Road\nBlock S17\, Level 3\, #03-01;Singapore;;119076;Singapore
+item1.URL;type=pref:tchuang5.github.io
+item1.X-ABLabel:_$!<HomePage>!$_
+UID:19ab39c1-8e26-46a4-8a94-9e1f2239c22c
+X-ABUID:49F46D4E-8C16-4DCB-A849-E1CE8DE77185:ABPerson
+END:VCARD
