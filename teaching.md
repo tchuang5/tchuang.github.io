@@ -14,7 +14,13 @@ layout: page
 </style>
 
 <p class="firstlevel"> Independent Instructor</p>
-<p class="secondlevel"> Texas State University, San Marcos, Texas, USA</p>
+
+<p class="secondlevel"> University of Iowa, Iowa City, IA, USA
+<ol style="counter-reset: list 2">
+	<li> Economic and Business Forecasting, <em>Fall 2019</em> </li>
+</ol>
+
+<p class="secondlevel"> Texas State University, San Marcos, TX, USA</p>
 <ol style="counter-reset: list 5">
 	<li> Money and Banking, <em>Spring 2018, Fall 2017</em> </li>
 	<li> Principle of Macroeconomics, <em>Spring 2018</em> </li>
@@ -22,14 +28,14 @@ layout: page
 	<li> Intermediate Macroeconomics, <em>Spring 2017 </em> </li>
 </ol>
 
-<p class="secondlevel"> Texas A&amp;M University, College Station, Texas, USA</p>
+<p class="secondlevel"> Texas A&amp;M University, College Station, TX, USA</p>
 <ol style="counter-reset: list 3">
 	<li> Financial Economics, <em>Fall 2016, Fall 2015</em> </li>
 	<li> Intermediate Macroeconomics, <em>Spring 2016</em> </li>
 </ol>
 
 <p class="firstlevel"> Teaching Assistant<sup>&#8902;</sup></p>
-<p class="secondlevel"> Texas A&amp;M University, College Station, Texas, USA</p>
+<p class="secondlevel"> Texas A&amp;M University, College Station, TX, USA</p>
 <ol style="counter-reset: list 4">
 	<li> Summer Math-Stat Boot Camp (PhD), <em>2017, 2016, 2015, 2014</em> </li>
 	<li> Introduction to Econometrics, <em>Spring 2014</em> </li>
