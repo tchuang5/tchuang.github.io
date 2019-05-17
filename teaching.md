@@ -14,12 +14,12 @@ layout: page
 </style>
 
 <p class="firstlevel"> Independent Instructor</p>
-
+<!--
 <p class="secondlevel"> University of Iowa, Iowa City, IA, USA
 <ol style="counter-reset: list 2">
 	<li> Economic and Business Forecasting, <em>Fall 2019</em> </li>
 </ol>
-
+-->
 <p class="secondlevel"> Texas State University, San Marcos, TX, USA</p>
 <ol style="counter-reset: list 5">
 	<li> Money and Banking, <em>Spring 2018, Fall 2017</em> </li>
