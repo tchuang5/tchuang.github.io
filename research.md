@@ -15,11 +15,9 @@ a {text-decoration: none}
 
 <!--<h2 style="color:#4b0082; font-size:24px ">Research</h2>-->
 <p class="firstlevel"> Working Papers</p>
-<ol style="counter-reset: list 2">
+<ol style="counter-reset: list 3">
 	<li> &ldquo;Testing for unobserved heterogeneous treatment effects with observational data,&rdquo; with Yu-Chin Hsu and Haiqing Xu. <em>Submitted</em>. </li>
-	<!--
-	<li> &ldquo;Trend-corrected artificial counterfactual for cointegrated non-stationary series,&rdquo; with Pablo Cresp. <em>Submitted</em>. </li> 
-	-->
+	<li> &ldquo;Trend-corrected artificial counterfactual for cointegrated non-stationary series,&rdquo; with Pablo Crespo. <em>Submitted</em>. </li> 
 </ol>
 
 <p class="firstlevel"> Publications</p>
