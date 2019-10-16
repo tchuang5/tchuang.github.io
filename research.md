@@ -23,8 +23,8 @@ a {text-decoration: none}
 
 <p class="firstlevel"> Publications</p>
 <ol style="counter-reset: list 3">
-	<li>  Crespo, Pablo, and Ta-Cheng Huang (2018): &ldquo;Implied volatility estimation via l1 trend filtering,&rdquo; <em>The Journal of Derivatives</em>, 26(1), pp. 45-66.  <a class = "link" href = "https://doi.org/10.3905/jod.2018.26.1.045">DOI</a>. </li>
-	<li> Chen, Xirong, Ta-Cheng Huang, and Qi Li (2017): &ldquo;An alternative bandwidth selection method for estimating functional coefficient models,&rdquo; <em>Economics Letters</em>, 156, pp. 27-31.  <a class = "link" href = "https://doi.org/10.1016/j.econlet.2017.03.009">DOI</a>. </li>
+	<li>  Crespo, Pablo, and Ta-Cheng Huang (2018): &ldquo;Implied volatility estimation via l1 trend filtering,&rdquo; <em>The Journal of Derivatives</em>, 26(1), pp. 45-66.  <a class = "link" href = "https://doi.org/10.3905/jod.2018.26.1.045">doi</a>. </li>
+	<li> Chen, Xirong, Ta-Cheng Huang, and Qi Li (2017): &ldquo;An alternative bandwidth selection method for estimating functional coefficient models,&rdquo; <em>Economics Letters</em>, 156, pp. 27-31.  <a class = "link" href = "https://doi.org/10.1016/j.econlet.2017.03.009">doi</a>. </li>
 </ol>
 
 <p class="firstlevel"> Work in Progress</p>
