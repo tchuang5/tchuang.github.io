@@ -17,7 +17,7 @@ a {text-decoration: none}
 <p class="firstlevel"> Working Papers</p>
 <ol style="counter-reset: list 3">
 	<li> &ldquo;Testing for unobserved heterogeneous treatment effects with observational data,&rdquo; with Yu-Chin Hsu and Haiqing Xu. <em>Submitted</em>. </li>
-	<li> &ldquo;Trend-corrected artificial counterfactual for cointegrated non-stationary series,&rdquo; with Pablo Crespo. </li> 
+	<li> &ldquo;Estimating causal effects for cointegrated non-stationary series: An augmented synthetic control approach,&rdquo; with Pablo Crespo. </li> 
 </ol>
 
 <p class="firstlevel"> Publications</p>
