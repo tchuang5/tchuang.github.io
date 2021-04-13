@@ -31,12 +31,14 @@ specification test with heavy-tailed data,&rdquo; <em> Economics Letters,</em> f
 	<li> Chen, Xirong, Ta-Cheng Huang, and Qi Li (2017): &ldquo;An alternative bandwidth selection method for estimating functional coefficient models,&rdquo; <em>Economics Letters</em>, 156, pp. 27-31.  <a class = "link" href = "https://doi.org/10.1016/j.econlet.2017.03.009" target="_blank">DOI</a>. </li>
 </ol>
 
-<!--
+
 <p class="firstlevel"> Work in Progress</p>
-<ol style="counter-reset: list 5">
+<ol style="counter-reset: list 3">
 	<li> &ldquo;Nonparametric tests for treatment effect heterogeneity under Regression Kink design.&rdquo;</li>
 	<li> &ldquo;Monotonicity tests for treatment effect on treated under Regression Kink design.&rdquo;</li>
+	<!--
 	<li> &ldquo;Higher order properties for a consistent semiparametric model specification test for a binary choice model.&rdquo; </li>
 	<li> &ldquo;Bargaining power between parents and parents-in-law,&rdquo; with Su-Chin Hsu.</li>
+	-->
 </ol>
--->
+
