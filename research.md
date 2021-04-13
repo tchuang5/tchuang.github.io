@@ -18,7 +18,7 @@ a {text-decoration: none}
 <p class="firstlevel"> Working Papers</p>
 
 <ol style="counter-reset: list 3">	
-	<li> &ldquo;Testing for unobserved heterogeneous treatment effects with observational data,&rdquo; with Yu-Chin Hsu and Haiqing Xu. <em>Under Revision for Resubmission.</em> </li>
+	<li> &ldquo;Testing for unobserved heterogeneous treatment effects with observational data,&rdquo; with Yu-Chin Hsu and Haiqing Xu. <em>R&amp;R at Econometric Theory.</em> </li>
 	<li> &ldquo;Estimating causal effects for cointegrated non-stationary series: An augmented synthetic control approach,&rdquo; with Pablo Crespo. <em>Submitted.</em> </li> 
 </ol>
 
