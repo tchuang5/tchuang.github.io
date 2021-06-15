@@ -2,6 +2,7 @@
 title: Research
 layout: page
 ---
+
 <style>
 ol>li{ list-style: none; list-style-position: inside; padding-left: 10px; text-indent: -1.5em; line-height: 150%}
 p.firstlevel{font-size: 22px; font-weight: bold}
